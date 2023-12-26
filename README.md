@@ -17,6 +17,7 @@ What does a software developer (front-end -> full stack) have in his laptop?
 ​        导入 vscode 配置文件即可，就酱。
 
 
+# 软件列表
 
 - 笔记应用
 
