@@ -1,0 +1,177 @@
+- 笔记应用
+  - 编辑器内核类
+    - [Overleaf](https://cn.overleaf.com)：在线 LaTeX 编辑器
+    - [typst](https://typst.app/)：论文编辑器，超越 LaTeX
+    - [Typora](https://typora.io/)：markdown 编辑器，专注内容输入，精致
+    - [MarkText](https://www.marktext.cc/)：著名开源 markdown 编辑器
+  - all-in-one
+    - [anytype](https://anytype.io/)：界面非常美观，试图超越 notion
+    - [Notion](https://www.notion.so/desktop)：all-in-one 代表作，笔记巨头
+    - [Obsidian](https://obsidian.md/)：本地优先，对标 notion，插件化
+    - [wolai](https://www.wolai.com/)：国版 notion
+    - [FlowUs](https://flowus.cn/product)：国版 notion2
+    - [Microsoft Loop](https://loop.microsoft.com/learn)：微软出品，all in one
+  - 经典笔记
+    - [Bear](https://bear.app/)：极致精简，好想用 aaa，然而只支持 mac
+    - [mindbox](https://amindbox.com/)：国产，小而雅，界面美观
+  - 碎片化笔记
+    - [flomo](https://flomoapp.com/)：国产，专注于碎片知识管理，优雅
+    - [Memos](https://www.usememos.com/)：flomo 开源自部署版
+  - 大纲笔记
+    - [Logseq](https://logseq.com/)：大纲笔记，插件系统，界面优美
+    - [romNote](https://www.remnote.com/)：抽认卡+大纲笔记
+    - [Roam Research](https://roamresearch.com/)：大纲笔记
+  - 特殊的/不知道归类为什么
+    - [Lattics](https://lattics.zineapi.com/zh-CN)：界面挺漂亮的，类脑式
+    - [Heptabase](https://heptabase.com/)：收费较高，可视化图谱
+- 博客扩散工具
+  - [openWrite](http://admin.openwrite.cn/)：有水印好像，我反正没用过
+- 思维导图
+  - [Xmind](https://xmind.cn/)：瑞士军刀
+  - [幕布](https://mubu.com/home)：大纲笔记+思维导图
+- 科研
+  - [Zotero](https://www.zotero.org/)：文献收藏
+- 清单
+  - [滴答清单](https://dida365.com)：优雅，收费
+  - microsoft to do：微软出品，简单易用
+  - [Todo 清单](https://todo.evestudio.cn/)：还阔以，比较喜欢它的番茄钟功能
+  - [闪点清单](https://flicker.cool/)：亮点是简洁和悬浮菜单
+  - [青蛙 Todo](https://www.shuge888.com/produce/frogtodo/)：每个时间段都安排三只青蛙
+  - [Twos](https://www.twosapp.com/home)：仅限 mac/(ㄒ o ㄒ)/~~
+  - [MoneyWiz](https://www.wiz.money/)：资金管理，然而只有 Mac
+  - [Sorted](https://www.sortedapp.com/)：据说特别牛，只有 mac
+  - [Superlist](https://www.superlist.com/)：融合清单，多应用接入，但是还在开发中，感觉功能挺花
+- 团队协作
+  - [飞书](https://www.feishu.cn/)：还行
+  - [linear](https://linear.app/open-project/team/OPE/active)：界面优雅，功能强大
+  - [禅道](https://www.zentao.net/)：国内很火
+  - [Slack](https://slack.com/intl/zh-cn/)：频道性质
+  - [Toggl Track](https://track.toggl.com/timer)：不太懂，但界面很好看
+  - [Basecamp](https://basecamp.com/)：37signals 出品
+  - [Focalboard](https://www.focalboard.com/)：开源，界面优雅
+  - [plane](https://app.plane.so/)：界面白素风，挺美观
+  - [height](https://height.app/)：专为创客打造，风格有点 linear 的感觉
+  - [trello](https://trello.com/)：看板式
+  - [leangoo](https://www.leangoo.com/)：国产
+  - [Craft](https://www.craft.do/)：简约而又厚重的知识库
+  - [语雀](https://www.yuque.com/dashboard)：知识库工具，精简
+- 阅读器
+  - [Koodo Reader](https://koodo.960960.xyz/zh)：开源电子阅读器
+- 音乐
+  - QQ 音乐
+  - 网易云音乐
+  - 酷狗音乐
+- 系统工具
+  - 系统强化
+    - [MyDockFinder](https://www.mydockfinder.com/)：windows 模拟 mac 界面
+    - [bitdock](http://www.bitdock.cn/)：windows 模拟 mac 界面（占用内存极大，界面不够优雅）
+    - [Rainmeter](https://www.rainmeter.net/)：桌面皮肤插件化
+    - [MacType](https://www.mactype.net/)：优化 windows 系统文本显示
+    - [Tickeys](https://www.yingdev.com/projects/tickeys)：给按键添加声音
+    - [Warp: Your terminal, reimagined](https://www.warp.dev/)：进阶版终端
+    - [WGestures 2](https://www.yingdev.com/projects/wgestures2)：windows 全局鼠标手势
+  - 云盘
+    - [阿里云盘](https://www.alipan.com/)：网盘，快、无广告、空间大
+    - [百度网盘](https://pan.baidu.com)：网盘，不得不用（用的人太多）
+  - clash for windows：VPN 工具
+  - 启动器/快捷工具箱
+    - [uTools](https://www.u.tools/)：快启动与小工具
+    - [rubick](https://rubick.vip/)：开源版 utools
+    - [Quicker](https://getquicker.net/)：工具箱+快捷动作
+    - [Fluent Search](https://fluentsearch.net/)：搜索正在运行的程序、浏览器选项卡、文件等
+    - [Flow Launcher](https://www.flowlauncher.com/)：界面舒适、社区插件
+    - [Listary](https://www.listary.com/)：启动
+  - 基础工具
+    - [everything](https://www.voidtools.com/zh-cn/)：电脑本地文件搜索引擎，极速
+    - [PotPlayer](https://potplayer.en.softonic.com/)：视频播放器
+    - [ScreenToGif](https://www.screentogif.com/)：录屏成 gif
+    - [TeamViewer](https://www.teamviewer.com/apac/)：远程操控电脑
+    - [Loom](https://www.loom.com/looms/videos)：录屏工具
+    - [白描](https://baimiao.uzero.cn/)：OCR 工具
+    - [PDFgear](https://www.pdfgear.com/zh/)：pdf 工具
+    - [f.lux](https://justgetflux.com/)：护眼工具
+    - [PicGo](https://molunerfinn.com/PicGo/)：图片上传
+    - [LocalSend](https://localsend.org/#/)：本地共享工具
+    - [Cron Calendar](https://cron.com/)：日历工具也可以 linear 风~
+    - [CopyQ](https://hluk.github.io/CopyQ/)：剪贴板管理工具
+    - [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)：一些简便的工具，比如窗口置顶、管理环境变量
+    - [Startup Delayer](https://www.r2.com.au/page/products/show/startup-delayer/)：自启动控制器
+    - [Ping](https://ping.gg/)：主播用视频工具
+    - [Pomotroid](https://splode.github.io/pomotroid/)：番茄计时器
+  - 安全工具
+    - [火绒](https://www.huorong.cn/person5.html)：安全软件（防弹窗）
+    - [微软电脑管家](https://pcmanager.microsoft.com/zh-cn)：垃圾清理
+  - 截图工具
+    - [Snipaste](https://www.snipaste.com/)：知名，截图、贴图、置顶、缩放
+    - [verycapture](https://verycapture.com/cn/index.html)：没用过
+  - 卸载工具
+    - [HiBit](https://www.hibitsoft.ir/Uninstaller.html)：好像拿的奖挺多
+    - [Uninstalr](https://uninstalr.com/)：批量卸载，强制卸载=>容易出问题
+- 聊天工具
+  - QQ：年轻人日常聊天
+  - 微信：成年人日常聊天
+  - 钉钉：工作
+  - telegram：灰色地带，鱼龙混杂
+  - twitter：国际大舞台
+  - facebook：国际大舞台 2
+- 游戏平台
+  - [Steam](https://store.steampowered.com/)：no.1，PC 最全
+  - [epic](https://store.epicgames.com/en-US/)：no.2，经常送游戏
+- 浏览器
+  - Edge：界面简洁舒适
+  - Chrome：行业老大
+  - Firefox：开源产品
+  - 浏览器插件
+    - [Omnivore](https://omnivore.app/home)：优雅开源 RSS 工具
+    - [AdBlock](https://microsoftedge.microsoft.com/addons/detail/adblock-%E2%80%94-%E6%9C%80%E4%BD%B3%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%B7%A5%E5%85%B7/ndcileolkflehcjpmjnfbnaibdcgglog)：广告拦截
+    - [Apifox Browser Extension ](https://microsoftedge.microsoft.com/addons/detail/apifox-browser-extension/haklpcemfcccpoeaibpbgacinnbfafbl)：提供 web 端代理功能
+    - [Auto Tab Discard](https://webextension.org/listing/tab-discard.html)：优秀的选项卡休眠
+    - 开发者工具
+      - [React Developer Tools](https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil)：react 浏览器开发者工具
+      - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)：Vue 开发者工具
+    - [Washbaidu](https://microsoftedge.microsoft.com/addons/detail/washbaidu/keleecjcfmdfipfcjlfjghkdedjkpnln)：优化百度搜索界面，移除广告，虽然我早不用百度了
+    - [沉浸式翻译](https://immersivetranslate.com/)：翻译网站但是保留源文，阅读英文文档很好用（但是还是建议直接读英文的，多读读就好了）
+    - [沙拉查词](https://saladict.crimx.com/)：划词翻译，很古老的神，本人已不用，被 TTime 取代
+    - [Tampermonkey](https://www.tampermonkey.net/index.php?browser=chrome&locale=zh)：老东西了，浏览器脚本工具
+      - [notion-zh_CN](https://github.com/reamd7/notion-zh_CN)：notion web 页面汉化
+      - [starpassword](https://github.com/syhyz1990/starpassword)：当鼠标停留在密码框时显示星号密码
+      - [CSDNGreener](https://github.com/adlered/CSDNGreener)：去除 CSDN 广告，并对其进行优化
+    - 网站优化
+      - [Material Theme UI](https://material-theme.com/)：为 github、gitlab、gitee 等代码托管服务平台的文件夹和文件图标优化
+      - [Modern for Wikipedia](https://chromewebstore.google.com/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn)：维基百科 web 优化
+      - [refined-github](https://github.com/refined-github/refined-github)：github 网站页面优化
+      - [V2EX Polish](https://chromewebstore.google.com/detail/v2ex-polish/onnepejgdiojhiflfoemillegpgpabdm)：V2EX 网站优化
+    - [小舒同学](https://xiaoshuapp.com/)：收藏夹转换为新标签页
+    - [Dark Mode](https://dark-mode.net/)：暗黑模式
+    - [Authenticator](https://authenticator.cc/)：2FA 验证器码生成
+- 编程工具
+  - JS 运行时
+    - [Node.js (nodejs.org)](https://nodejs.org/en)：老牌了
+      - 全局 package
+        - npm、yarn、pnpm：三大包管理器
+        - nrm：npm 源管理器
+        - eslint、eslint-plugin-vue、prettier、stylelint、ts-node、typescript：为 vscode 插件提供支持
+        - hexo-cli：本人博客 hexo 使用
+        - vite：著名构建工具
+    - [nvm](https://nvm.uihtm.com/)：nodejs 版本管理工具
+  - 小工具
+    - [小皮面板](https://www.xp.cn/)：小白式安装数据库等 linux 工具，并保持隔离性
+    - [Sakura Frp](https://www.natfrp.com/)：简易内网穿透
+    - [雷池](https://waf-ce.chaitin.cn/)：维护网站安全的防火墙
+    - [Responsively App](https://responsively.app/)：界面兼容性同时呈现浏览器
+  - 服务器管理
+    - [FinalShell](https://www.finalshell.org/)：简洁快速
+  - UML 类图绘制
+    - [StarUML](https://staruml.io/)：还行
+  - 数据库可视化工具
+    - [Navicat](https://navicat.com/en/)：挺好使，简单
+  - API 工具
+    - [Apifox](https://apifox.com/)：首推，极其全面，界面优雅
+    - [bruno](https://www.usebruno.com/)：开源，基于 Git 做 API 管理，亮点
+    - [RunApi](https://www.showdoc.com.cn/runapi/30291)：挺简朴的
+  - 编辑器
+    - [StackBlitz](https://stackblitz.com/)：云端 IDE
+    - [IDEA](https://www.jetbrains.com/zh-cn/idea/)：JAVA
+    - [PyCharm](https://www.jetbrains.com/pycharm/)：Python
+    - [小熊猫 C++](https://royqh1979.gitee.io/redpandacpp/)：C++
+    - [Visual Studio Code](https://code.visualstudio.com/)：JS/TS
