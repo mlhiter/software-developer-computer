@@ -2,13 +2,40 @@
 
 What does a software developer (front-end -> full stack) have in his laptop?
 
-这些都是我现在使用的，经过我的实际检验，符合我个人审美，优雅简洁，或者迫不得已。
+这些都是我现在使用的，经过我的实际检验，符合我个人审美，优雅简洁，或者不得不装 🤣。
 
-我使用过的所有应用在这里，可能有你兴趣的吧->[all-software](docs/all-software.md)
+
+
+我使用过的所有应用在这里，可能有你兴趣的应用->[all-software](docs/all-software.md)
+
+我的浏览器书签在这里，可能有你感兴趣的网站->[bookmarks](docs/bookmarks.html)
+
+​	在 config 文件夹里我会放一些软件的配置文件，直接上车
+
+​	现在只有 vscode（好像也只有 vscode 值得这样做。。。）
+
+​        导入 vscode 配置文件即可，就酱。
+
+
 
 - 笔记应用
-  - [Typora](https://typora.io/)：markdown 编辑器，专注内容输入，精致
-  - [Logseq](https://logseq.com/)：大纲笔记，插件系统，界面优美
+
+  - [Typora](https://typora.io/)：markdown 编辑器，专注内容输入，精致 -> 用来写文章
+    - 装一个插件：[typora_plugin]([obgnail/typora_plugin: Typora plugin. feature enhancement tool | Typora 插件，功能增强工具 (github.com)](https://github.com/obgnail/typora_plugin))能对typora的功能优化一下，比如tabs栏（但是其实没有完全不影响）
+  - [Logseq](https://logseq.com/)：大纲笔记，插件系统，界面优美 -> 用来记笔记
+    - Awesome UI：重构 UI
+    - Awesome Styler：主题调整器
+    - Bullet Threading：增强层级线条指示
+    - Omnivore：logseq 和 omnivore 联动，主要功能是提醒我今天是否有新内容需要查看
+    - Tabs：提供 tabs 功能
+    - Awesome links：优化链接的显示，更美观
+    - Tags：搜索所有标签的作用
+    - Tabler picker：emoji 选择器
+    - Git：git 自动提交
+    - Char Spacing：中英文之间间隔自动优化
+    - Image Uploader：调用本地的 picGo 做图片上传
+    - Awesome Content：增强内容块显示
+
 - 思维导图
   - [Xmind](https://xmind.cn/)：瑞士军刀
 - 清单

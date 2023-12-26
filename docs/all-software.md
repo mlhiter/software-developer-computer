@@ -1,4 +1,5 @@
 - 笔记应用
+
   - 编辑器内核类
     - [Overleaf](https://cn.overleaf.com)：在线 LaTeX 编辑器
     - [typst](https://typst.app/)：论文编辑器，超越 LaTeX
@@ -18,12 +19,29 @@
     - [flomo](https://flomoapp.com/)：国产，专注于碎片知识管理，优雅
     - [Memos](https://www.usememos.com/)：flomo 开源自部署版
   - 大纲笔记
+
     - [Logseq](https://logseq.com/)：大纲笔记，插件系统，界面优美
+
+      - Awesome UI：重构 UI
+      - Awesome Styler：主题调整器
+      - Bullet Threading：增强层级线条指示
+      - Omnivore：logseq 和 omnivore 联动，主要功能是提醒我今天是否有新内容需要查看
+      - Tabs：提供 tabs 功能
+      - Awesome links：优化链接的显示，更美观
+      - Tags：搜索所有标签的作用
+      - Tabler picker：emoji 选择器
+      - Git：git 自动提交
+      - Char Spacing：中英文之间间隔自动优化
+      - Image Uploader：调用本地的 picGo 做图片上传
+      - Awesome Content：增强内容块显示
+
     - [romNote](https://www.remnote.com/)：抽认卡+大纲笔记
     - [Roam Research](https://roamresearch.com/)：大纲笔记
+
   - 特殊的/不知道归类为什么
     - [Lattics](https://lattics.zineapi.com/zh-CN)：界面挺漂亮的，类脑式
     - [Heptabase](https://heptabase.com/)：收费较高，可视化图谱
+
 - 博客扩散工具
   - [openWrite](http://admin.openwrite.cn/)：有水印好像，我反正没用过
 - 思维导图
