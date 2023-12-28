@@ -8,6 +8,7 @@
   - all-in-one
     - [anytype](https://anytype.io/)：界面非常美观，试图超越 notion
     - [Notion](https://www.notion.so/desktop)：all-in-one 代表作，笔记巨头
+    - [AppFlowy.IO](https://www.appflowy.io/)：开源版 notion
     - [Obsidian](https://obsidian.md/)：本地优先，对标 notion，插件化
     - [wolai](https://www.wolai.com/)：国版 notion
     - [FlowUs](https://flowus.cn/product)：国版 notion2
