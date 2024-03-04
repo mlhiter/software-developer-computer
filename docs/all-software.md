@@ -5,6 +5,8 @@
     - [typst](https://typst.app/)：论文编辑器，超越 LaTeX
     - [Typora](https://typora.io/)：markdown 编辑器，专注内容输入，精致
     - [MarkText](https://www.marktext.cc/)：著名开源 markdown 编辑器
+    - [Bluestone](https://www.bluemd.me/)：所见即所得，新颖
+    - [HackMD](https://hackmd.io/)：md 知识协作知识库
   - all-in-one
     - [anytype](https://anytype.io/)：界面非常美观，试图超越 notion
     - [Notion](https://www.notion.so/desktop)：all-in-one 代表作，笔记巨头
@@ -13,12 +15,21 @@
     - [wolai](https://www.wolai.com/)：国版 notion
     - [FlowUs](https://flowus.cn/product)：国版 notion2
     - [Microsoft Loop](https://loop.microsoft.com/learn)：微软出品，all in one
+    - [AFFiNE](https://affine.pro/)：挺好的感觉，特殊的绘制功能
+    - [Coda](https://coda.io/)：类 notion、商用
+    - [Thoughts](https://thoughts.teambition.com/site)：阿里出品，面向中小企业
   - 经典笔记
+
     - [Bear](https://bear.app/)：极致精简，好想用 aaa，然而只支持 mac
     - [mindbox](https://amindbox.com/)：国产，小而雅，界面美观
+    - [Blossom](https://www.wangyunf.com/blossom-doc/index)：私有化部署
+
   - 碎片化笔记
+
     - [flomo](https://flomoapp.com/)：国产，专注于碎片知识管理，优雅
     - [Memos](https://www.usememos.com/)：flomo 开源自部署版
+    - [Seeds Note](https://seedsnote.com/)：卡片笔记
+
   - 大纲笔记
 
     - [Logseq](https://logseq.com/)：大纲笔记，插件系统，界面优美
@@ -38,9 +49,9 @@
 
     - [romNote](https://www.remnote.com/)：抽认卡+大纲笔记
     - [Roam Research](https://roamresearch.com/)：大纲笔记
+    - [tana](https://tana.inc/)：新型节点笔记
 
   - 特殊的/不知道归类为什么
-    - [Lattics](https://lattics.zineapi.com/zh-CN)：界面挺漂亮的，类脑式
     - [Heptabase](https://heptabase.com/)：收费较高，可视化图谱
 
 - 博客扩散工具
@@ -49,7 +60,10 @@
   - [Xmind](https://xmind.cn/)：瑞士军刀
   - [幕布](https://mubu.com/home)：大纲笔记+思维导图
 - 科研
+
   - [Zotero](https://www.zotero.org/)：文献收藏
+  - [Lattics](https://lattics.zineapi.com/zh-CN)：界面挺漂亮的，类脑式笔记，也算 all-in-one 吧
+
 - 清单
   - [滴答清单](https://dida365.com)：优雅，收费
   - microsoft to do：微软出品，简单易用
@@ -60,6 +74,9 @@
   - [MoneyWiz](https://www.wiz.money/)：资金管理，然而只有 Mac
   - [Sorted](https://www.sortedapp.com/)：据说特别牛，只有 mac
   - [Superlist](https://www.superlist.com/)：融合清单，多应用接入，但是还在开发中，感觉功能挺花
+  - [todoist](https://app.todoist.com/)：国外很牛的清单
+  - [Things](https://culturedcode.com/things/)：Mac 生态，感觉不错
+  - [routine](https://www.routine.co/)：日历清单 all-in-one，优美
 - 团队协作
   - [飞书](https://www.feishu.cn/)：还行
   - [linear](https://linear.app/open-project/team/OPE/active)：界面优雅，功能强大
@@ -81,25 +98,48 @@
   - 网易云音乐
   - 酷狗音乐
 - 系统工具
+
   - 系统强化
     - [MyDockFinder](https://www.mydockfinder.com/)：windows 模拟 mac 界面
     - [bitdock](http://www.bitdock.cn/)：windows 模拟 mac 界面（占用内存极大，界面不够优雅）
     - [Rainmeter](https://www.rainmeter.net/)：桌面皮肤插件化
     - [MacType](https://www.mactype.net/)：优化 windows 系统文本显示
     - [Tickeys](https://www.yingdev.com/projects/tickeys)：给按键添加声音
-    - [Warp: Your terminal, reimagined](https://www.warp.dev/)：进阶版终端
+    - [Warp](https://www.warp.dev/)：进阶版终端
     - [WGestures 2](https://www.yingdev.com/projects/wgestures2)：windows 全局鼠标手势
+  - 输入法
+    - [微信输入法](https://z.weixin.qq.com/)：做的真的非常棒 👍
   - 云盘
     - [阿里云盘](https://www.alipan.com/)：网盘，快、无广告、空间大
     - [百度网盘](https://pan.baidu.com)：网盘，不得不用（用的人太多）
-  - clash for windows：VPN 工具
+  - VPN 工具
+    - clash for windows
   - 启动器/快捷工具箱
+
     - [uTools](https://www.u.tools/)：快启动与小工具
+
+      - 插件列表
+        - 翻译：如名
+        - ChatGPT.好友：这才是 chatgpt 真正的 client 之神好吧！
+        - 本地搜索：配合 everything 一键迅速找文件
+        - 备忘快贴：备忘
+        - 网页快开：快速在默认浏览器打开网页
+        - 书签与历史纪录：快速搜索历史记录和一些软件的项目
+        - 摸鱼阅读：你根本发现不了我在摸鱼看小说
+        - OCR 文字识别：快速 ocr
+        - 英语单词肌肉记忆打字练习：如名，很好玩的小工具
+        - 干它+骂人宝典：极速骂人，我们的互联网嘴替
+        - 彩虹屁：拍马屁专用，专业拍马腿
+        - 颜色助手：取色、色卡之类的
+        - Markdown 笔记：还不错的笔记工具，真的，用过一段时间代替 typora
+        - 密码管理器：非常神的密码管理工具，本地化无风险。还可以整随机密码，非常棒！
+
     - [rubick](https://rubick.vip/)：开源版 utools
     - [Quicker](https://getquicker.net/)：工具箱+快捷动作
     - [Fluent Search](https://fluentsearch.net/)：搜索正在运行的程序、浏览器选项卡、文件等
     - [Flow Launcher](https://www.flowlauncher.com/)：界面舒适、社区插件
     - [Listary](https://www.listary.com/)：启动
+
   - 基础工具
     - [everything](https://www.voidtools.com/zh-cn/)：电脑本地文件搜索引擎，极速
     - [PotPlayer](https://potplayer.en.softonic.com/)：视频播放器
@@ -126,12 +166,14 @@
   - 卸载工具
     - [HiBit](https://www.hibitsoft.ir/Uninstaller.html)：好像拿的奖挺多
     - [Uninstalr](https://uninstalr.com/)：批量卸载，强制卸载=>容易出问题
+
 - 聊天工具
   - QQ：年轻人日常聊天
   - 微信：成年人日常聊天
   - 钉钉：工作
+  - 飞书：真正的工作神器，然而不会赚钱
   - telegram：灰色地带，鱼龙混杂
-  - twitter：国际大舞台
+  - twitter(X)：国际大舞台
   - facebook：国际大舞台 2
 - 游戏平台
   - [Steam](https://store.steampowered.com/)：no.1，PC 最全
@@ -140,11 +182,14 @@
   - Edge：界面简洁舒适
   - Chrome：行业老大
   - Firefox：开源产品
+  - Arc：新兴浏览器，换换口味
+  - Thorium：chromium 内核极速版，非常快
   - 浏览器插件
     - [Omnivore](https://omnivore.app/home)：优雅开源 RSS 工具
     - [AdBlock](https://microsoftedge.microsoft.com/addons/detail/adblock-%E2%80%94-%E6%9C%80%E4%BD%B3%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%B7%A5%E5%85%B7/ndcileolkflehcjpmjnfbnaibdcgglog)：广告拦截
     - [Apifox Browser Extension ](https://microsoftedge.microsoft.com/addons/detail/apifox-browser-extension/haklpcemfcccpoeaibpbgacinnbfafbl)：提供 web 端代理功能
     - [Auto Tab Discard](https://webextension.org/listing/tab-discard.html)：优秀的选项卡休眠
+    - [xbrowserSync](https://www.xbrowsersync.org/)：跨浏览器同步书签
     - 开发者工具
       - [React Developer Tools](https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil)：react 浏览器开发者工具
       - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)：Vue 开发者工具
@@ -188,7 +233,7 @@
     - [Apifox](https://apifox.com/)：首推，极其全面，界面优雅
     - [bruno](https://www.usebruno.com/)：开源，基于 Git 做 API 管理，亮点
     - [RunApi](https://www.showdoc.com.cn/runapi/30291)：挺简朴的
-  - 编辑器
+  - 代码编辑器
     - [StackBlitz](https://stackblitz.com/)：云端 IDE
     - [IDEA](https://www.jetbrains.com/zh-cn/idea/)：JAVA
     - [PyCharm](https://www.jetbrains.com/pycharm/)：Python
