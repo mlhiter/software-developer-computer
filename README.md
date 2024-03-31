@@ -25,9 +25,12 @@ What does a software developer (front-end -> full stack) have in his laptop?
     - 装一个插件：[typora_plugin]([obgnail/typora_plugin: Typora plugin. feature enhancement tool | Typora 插件，功能增强工具 (github.com)](https://github.com/obgnail/typora_plugin))能对typora的功能优化一下，比如tabs栏（但是其实没有完全不影响）
   - [Logseq](https://logseq.com/)：大纲笔记，插件系统，界面优美 -> 用来记笔记
     - Awesome UI：重构 UI
+    - Heading level shortcuts：标题快速输入，ctrl+数字
     - Awesome Styler：主题调整器
     - Bullet Threading：增强层级线条指示
     - Omnivore：logseq 和 omnivore 联动，主要功能是提醒我今天是否有新内容需要查看
+    - Smart Search：比logseq自带的搜索效果好，可以配置快捷键使用
+    - Awesome Props：属性样式优化和图标更换
     - Tabs：提供 tabs 功能
     - Awesome links：优化链接的显示，更美观
     - Tags：搜索所有标签的作用
