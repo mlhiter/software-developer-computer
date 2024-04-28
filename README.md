@@ -6,9 +6,9 @@ What does a software developer (front-end -> full stack) have in his laptop?
 
 
 
-我使用过的所有应用在这里，可能有你兴趣的应用->[all-software](docs/all-software.md)
+**我使用过的所有应用在这里**，可能有你兴趣的应用->[all-software](docs/all-software.md)
 
-我的浏览器书签在这里，可能有你感兴趣的网站->[bookmarks](docs/bookmarks.html)   需要导入浏览器才能食用😜
+**我的浏览器书签在这里**，可能有你感兴趣的网站->[bookmarks](docs/bookmarks.html)   需要导入浏览器才能食用😜
 
 ​	在 config 文件夹里我会放一些软件的配置文件，直接上车
 
@@ -17,7 +17,7 @@ What does a software developer (front-end -> full stack) have in his laptop?
 ​        导入 vscode 配置文件即可，就酱。
 
 
-# 软件列表
+# 软件列表(我在用的)
 
 - 笔记应用
 
