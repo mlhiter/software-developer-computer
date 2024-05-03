@@ -4,9 +4,9 @@ What does a software developer (front-end -> full stack) have in his laptop?
 
 These are the ones I use now, which have been tested by my practice and meet my personal aesthetic, elegant and simple, or have to be installed🤣.
 
-All the apps I have used are here, and there may be some that you are interested in->[all-software](docs/all-software.md)
+**All the apps I have used are here**, and there may be some that you are interested in->[all-software](docs/all-software.md)
 
-My browser bookmarks are here, there may be sites you are interested in->[bookmarks](docs/bookmarks.html) You need to import it to your browser to eat it 😜
+**My browser bookmarks are here**, there may be sites you are interested in->[bookmarks](docs/bookmarks.html) You need to import it to your browser to eat it 😜
 
 > Most of these apps and bookmarks are Chinese app and website,but if you don't mind, they're still good quality.
 
