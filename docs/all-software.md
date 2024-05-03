@@ -1,42 +1,43 @@
 - 笔记应用
-
   - 编辑器内核类
     - [Overleaf](https://cn.overleaf.com)：在线 LaTeX 编辑器
     - [typst](https://typst.app/)：论文编辑器，超越 LaTeX
-    - [Typora](https://typora.io/)：markdown 编辑器，专注内容输入，精致
+    - [Typora](https://typora.io/)：markdown 编辑器，所见即所得，专注内容输入，精致
     - [MarkText](https://www.marktext.cc/)：著名开源 markdown 编辑器
     - [Bluestone](https://www.bluemd.me/)：所见即所得，新颖
     - [HackMD](https://hackmd.io/)：md 知识协作知识库
+    - [notable](https://notable.app/)：黑白简约的 md 编辑器
+    - [marxico](https://marxi.co/)：建立于 evernote 之上的 MD 编辑器
+    - [marked 2](https://marked2app.com/)：mac 所见即所得 md 编辑器
   - all-in-one
     - [anytype](https://anytype.io/)：界面非常美观，试图超越 notion
-    - [Notion](https://www.notion.so/desktop)：all-in-one 代表作，笔记巨头
     - [AppFlowy.IO](https://www.appflowy.io/)：开源版 notion
+    - [Notion](https://www.notion.so/desktop)：all-in-one 代表作，笔记巨头
     - [Obsidian](https://obsidian.md/)：本地优先，对标 notion，插件化
     - [wolai](https://www.wolai.com/)：国版 notion
     - [FlowUs](https://flowus.cn/product)：国版 notion2
+    - [思源笔记](https://b3log.org/siyuan/?lang=cn)：开源国版 notion
     - [Microsoft Loop](https://loop.microsoft.com/learn)：微软出品，all in one
     - [AFFiNE](https://affine.pro/)：挺好的感觉，特殊的绘制功能
     - [Coda](https://coda.io/)：类 notion、商用
     - [Thoughts](https://thoughts.teambition.com/site)：阿里出品，面向中小企业
+    - [capacities](https://capacities.io/)：不错，很美观
   - 经典笔记
-
     - [Bear](https://bear.app/)：极致精简，好想用 aaa，然而只支持 mac
+    - [ulysses](https://ulysses.app/)：面向 mac 系列的极简写作工具
     - [mindbox](https://amindbox.com/)：国产，小而雅，界面美观
     - [Blossom](https://www.wangyunf.com/blossom-doc/index)：私有化部署
-
   - 碎片化笔记
-
     - [flomo](https://flomoapp.com/)：国产，专注于碎片知识管理，优雅
     - [Memos](https://www.usememos.com/)：flomo 开源自部署版
     - [Seeds Note](https://seedsnote.com/)：卡片笔记
-
   - 大纲笔记
-
     - [Logseq](https://logseq.com/)：大纲笔记，插件系统，界面优美
-
       - Awesome UI：重构 UI
       - Awesome Styler：主题调整器
+      - Awesome props：重新样式化属性区和图标
       - Bullet Threading：增强层级线条指示
+      - Heading level shortcuts：快速输入标题，ctrl+数字
       - Omnivore：logseq 和 omnivore 联动，主要功能是提醒我今天是否有新内容需要查看
       - Tabs：提供 tabs 功能
       - Awesome links：优化链接的显示，更美观
@@ -45,25 +46,25 @@
       - Git：git 自动提交
       - Char Spacing：中英文之间间隔自动优化
       - Image Uploader：调用本地的 picGo 做图片上传
+      - Smart search：搜索功能，比原生 logseq 要好
       - Awesome Content：增强内容块显示
-
     - [romNote](https://www.remnote.com/)：抽认卡+大纲笔记
     - [Roam Research](https://roamresearch.com/)：大纲笔记
     - [tana](https://tana.inc/)：新型节点笔记
-
   - 特殊的/不知道归类为什么
+    - [Lattics](https://lattics.zineapi.com/zh-CN)：界面挺漂亮的，类脑式
     - [Heptabase](https://heptabase.com/)：收费较高，可视化图谱
-
+    - [deckset](https://www.deckset.com/)：markdown 工具
 - 博客扩散工具
   - [openWrite](http://admin.openwrite.cn/)：有水印好像，我反正没用过
 - 思维导图
   - [Xmind](https://xmind.cn/)：瑞士军刀
   - [幕布](https://mubu.com/home)：大纲笔记+思维导图
 - 科研
-
   - [Zotero](https://www.zotero.org/)：文献收藏
-  - [Lattics](https://lattics.zineapi.com/zh-CN)：界面挺漂亮的，类脑式笔记，也算 all-in-one 吧
-
+- 白板
+  - [excalidraw](https://excalidraw.com/)：最出名的一个开源白板
+  - [tldraw](https://www.tldraw.com/)：很优雅的一个开源白板
 - 清单
   - [滴答清单](https://dida365.com)：优雅，收费
   - microsoft to do：微软出品，简单易用
@@ -98,26 +99,25 @@
   - 网易云音乐
   - 酷狗音乐
 - 系统工具
-
   - 系统强化
     - [MyDockFinder](https://www.mydockfinder.com/)：windows 模拟 mac 界面
     - [bitdock](http://www.bitdock.cn/)：windows 模拟 mac 界面（占用内存极大，界面不够优雅）
     - [Rainmeter](https://www.rainmeter.net/)：桌面皮肤插件化
     - [MacType](https://www.mactype.net/)：优化 windows 系统文本显示
     - [Tickeys](https://www.yingdev.com/projects/tickeys)：给按键添加声音
-    - [Warp](https://www.warp.dev/)：进阶版终端
+    - [Warp: Your terminal, reimagined](https://www.warp.dev/)：进阶版终端
     - [WGestures 2](https://www.yingdev.com/projects/wgestures2)：windows 全局鼠标手势
+    - [rbtray](https://www.moitah.net/):任何应用都可以最小化到托盘
+    - [optimizer](https://github.com/hellzerg/optimizer)：系统很多设置强化和关闭
+    - [mycomputermanager](https://github.com/1357310795/MyComputerManager)：删除流氓软件的快捷方式
   - 输入法
-    - [微信输入法](https://z.weixin.qq.com/)：做的真的非常棒 👍
+    - [微信输入法](https://z.weixin.qq.com/)：做的真的非常棒 👍,但是内存占用有点高
   - 云盘
     - [阿里云盘](https://www.alipan.com/)：网盘，快、无广告、空间大
     - [百度网盘](https://pan.baidu.com)：网盘，不得不用（用的人太多）
-  - VPN 工具
-    - clash for windows
+  - clash for windows：VPN 工具
   - 启动器/快捷工具箱
-
     - [uTools](https://www.u.tools/)：快启动与小工具
-
       - 插件列表
         - 翻译：如名
         - ChatGPT.好友：这才是 chatgpt 真正的 client 之神好吧！
@@ -133,13 +133,12 @@
         - 颜色助手：取色、色卡之类的
         - Markdown 笔记：还不错的笔记工具，真的，用过一段时间代替 typora
         - 密码管理器：非常神的密码管理工具，本地化无风险。还可以整随机密码，非常棒！
-
     - [rubick](https://rubick.vip/)：开源版 utools
     - [Quicker](https://getquicker.net/)：工具箱+快捷动作
     - [Fluent Search](https://fluentsearch.net/)：搜索正在运行的程序、浏览器选项卡、文件等
     - [Flow Launcher](https://www.flowlauncher.com/)：界面舒适、社区插件
     - [Listary](https://www.listary.com/)：启动
-
+    - [Curiosity](https://curiosity.ai/download)：软件内容查找工具
   - 基础工具
     - [everything](https://www.voidtools.com/zh-cn/)：电脑本地文件搜索引擎，极速
     - [PotPlayer](https://potplayer.en.softonic.com/)：视频播放器
@@ -157,6 +156,7 @@
     - [Startup Delayer](https://www.r2.com.au/page/products/show/startup-delayer/)：自启动控制器
     - [Ping](https://ping.gg/)：主播用视频工具
     - [Pomotroid](https://splode.github.io/pomotroid/)：番茄计时器
+    - [rufus](https://rufus.ie/zh/)：U 盘变成系统盘
   - 安全工具
     - [火绒](https://www.huorong.cn/person5.html)：安全软件（防弹窗）
     - [微软电脑管家](https://pcmanager.microsoft.com/zh-cn)：垃圾清理
@@ -166,24 +166,23 @@
   - 卸载工具
     - [HiBit](https://www.hibitsoft.ir/Uninstaller.html)：好像拿的奖挺多
     - [Uninstalr](https://uninstalr.com/)：批量卸载，强制卸载=>容易出问题
-
 - 聊天工具
   - QQ：年轻人日常聊天
   - 微信：成年人日常聊天
   - 钉钉：工作
-  - 飞书：真正的工作神器，然而不会赚钱
   - telegram：灰色地带，鱼龙混杂
-  - twitter(X)：国际大舞台
+  - twitter：国际大舞台
   - facebook：国际大舞台 2
+  - [elk](https://github.com/elk-zone/elk)：mastodon 客户端，去中心化
 - 游戏平台
   - [Steam](https://store.steampowered.com/)：no.1，PC 最全
   - [epic](https://store.epicgames.com/en-US/)：no.2，经常送游戏
 - 浏览器
+  - [thorium](https://thorium.rocks/):chromium 高性能版，在用
   - Edge：界面简洁舒适
   - Chrome：行业老大
   - Firefox：开源产品
   - Arc：新兴浏览器，换换口味
-  - Thorium：chromium 内核极速版，非常快
   - 浏览器插件
     - [Omnivore](https://omnivore.app/home)：优雅开源 RSS 工具
     - [AdBlock](https://microsoftedge.microsoft.com/addons/detail/adblock-%E2%80%94-%E6%9C%80%E4%BD%B3%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%B7%A5%E5%85%B7/ndcileolkflehcjpmjnfbnaibdcgglog)：广告拦截
@@ -206,6 +205,7 @@
       - [refined-github](https://github.com/refined-github/refined-github)：github 网站页面优化
       - [V2EX Polish](https://chromewebstore.google.com/detail/v2ex-polish/onnepejgdiojhiflfoemillegpgpabdm)：V2EX 网站优化
     - [小舒同学](https://xiaoshuapp.com/)：收藏夹转换为新标签页
+    - custom new tab url：自定义新标签页，小舒同学在我收藏夹特别大的情况下成为了鸡肋，故恢复为谷歌搜索
     - [Dark Mode](https://dark-mode.net/)：暗黑模式
     - [Authenticator](https://authenticator.cc/)：2FA 验证器码生成
 - 编程工具

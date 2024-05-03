@@ -2,27 +2,24 @@
 
 What does a software developer (front-end -> full stack) have in his laptop?
 
-这些都是我现在使用的，经过我的实际检验，符合我个人审美，优雅简洁，或者不得不装 🤣。
+These are the ones I use now, which have been tested by my practice and meet my personal aesthetic, elegant and simple, or have to be installed🤣.
 
+All the apps I have used are here, and there may be some that you are interested in->[all-software](docs/all-software.md)
 
+My browser bookmarks are here, there may be sites you are interested in->[bookmarks](docs/bookmarks.html) You need to import it to your browser to eat it 😜
 
-我使用过的所有应用在这里，可能有你兴趣的应用->[all-software](docs/all-software.md)
+> Most of these apps and bookmarks are Chinese app and website,but if you don't mind, they're still good quality.
 
-我的浏览器书签在这里，可能有你感兴趣的网站->[bookmarks](docs/bookmarks.html)   需要导入浏览器才能食用😜
+I'll put some software configuration files in the config folder and go straight to the car.
 
-​	在 config 文件夹里我会放一些软件的配置文件，直接上车
-
-​	现在只有 vscode（好像也只有 vscode 值得这样做。。。）
-
-​        导入 vscode 配置文件即可，就酱。
-
+vscode is now the only thing (and vscode seems to be the only thing worth doing...)
 
 # 软件列表
 
 - 笔记应用
 
   - [Typora](https://typora.io/)：markdown 编辑器，专注内容输入，精致 -> 用来写文章
-    - 装一个插件：[typora_plugin]([obgnail/typora_plugin: Typora plugin. feature enhancement tool | Typora 插件，功能增强工具 (github.com)](https://github.com/obgnail/typora_plugin))能对typora的功能优化一下，比如tabs栏（但是其实没有完全不影响）
+    - 装一个插件：[typora_plugin]([obgnail/typora_plugin: Typora plugin. feature enhancement tool | Typora 插件，功能增强工具 (github.com)](https://github.com/obgnail/typora_plugin))能对 typora 的功能优化一下，比如 tabs 栏（但是其实没有完全不影响）
   - [Logseq](https://logseq.com/)：大纲笔记，插件系统，界面优美 -> 用来记笔记
     - Awesome UI：重构 UI
     - Awesome Styler：主题调整器
